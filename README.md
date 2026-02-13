@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharmanshusoni&label=Profile%20views&color=0e75b6&style=flat" alt="dharmanshusoni" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharmanshusoni" alt="dharmanshusoni" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/thedharmanshu" target="blank"><img src="https://img.shields.io/twitter/follow/thedharmanshu?logo=twitter&style=for-the-badge" alt="thedharmanshu" /></a> </p>
 
 - 🔭 I’m currently working on **Fullstack technologies**
